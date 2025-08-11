@@ -7,7 +7,7 @@ Aquí encontrarás proyectos donde aplico Python, Pandas, visualización y machi
 
 ## 📂 Proyectos
 
-1. **Análisis de coordenadas con BallTree y Folium**  
+1. **Análisis de coordenadas con BallTree **  
    - Detección de proximidad entre puntos geográficos con métrica Haversine.  
    - Visualización interactiva en mapa.  
    
