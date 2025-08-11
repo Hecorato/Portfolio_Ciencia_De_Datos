@@ -1,6 +1,6 @@
 
 
-# Portafolio de Ciencia de Datos – Hector GArnica
+# Portafolio de Ciencia de Datos – Hector Garnica
 
 Hola 👋, soy **Hecorat**, Me gusta desarrolar  análisis y ciencia de datos.  
 Aquí encontrarás proyectos donde aplico Python, Pandas, visualización y machine learning.
